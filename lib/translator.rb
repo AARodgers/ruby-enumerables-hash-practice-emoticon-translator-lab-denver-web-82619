@@ -13,7 +13,6 @@ def load_library(file_path)
     new_hash['get_emoticon'][value[0] = emoticons[key][1]
   end
   
-  
 end
 
 
